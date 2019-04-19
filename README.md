@@ -1,16 +1,8 @@
 # animated_login_page
 
-A new Flutter project.
+This is a first time using a flame_flutter. Used 2dimension to create this animated login page.  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![animated_login_page](https://user-images.githubusercontent.com/23574179/56432549-7cede680-62d6-11e9-9e7b-e0bf975fe42a.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Thank you, Umberto Sonnino for the cool tutorial.
